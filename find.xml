@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
       <mask>*.properit</mask>
       <mask>*.properi</mask>
@@ -22,8 +23,6 @@
       <mask>*.*</mask>
       <mask>*.go</mask>
       <mask>*.g</mask>
-      <mask>*.c</mask>
-      <mask>*.clj</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
@@ -34,6 +33,8 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.c</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
