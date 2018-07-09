@@ -19,21 +19,21 @@
       <mask>*cl</mask>
       <mask>*clj</mask>
       <mask>*.jV</mask>
-      <mask>*.jsx</mask>
       <mask>*.*</mask>
       <mask>*.go</mask>
       <mask>*.g</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.clj</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.py</mask>
-      <mask>*.s</mask>
       <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
