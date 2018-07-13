@@ -4,28 +4,21 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.gradle</mask>
       <mask>j</mask>
       <mask>js</mask>
       <mask>*js</mask>
-      <mask>*c</mask>
       <mask>*cl</mask>
-      <mask>*clj</mask>
       <mask>*.jV</mask>
       <mask>*.*</mask>
       <mask>*.go</mask>
       <mask>*.g</mask>
       <mask>*.s</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jsx</mask>
-      <mask>*.clj</mask>
       <mask>*.cl</mask>
       <mask>*.jav</mask>
       <mask>*.cpy</mask>
       <mask>*.cp</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
       <mask>s</mask>
@@ -34,6 +27,13 @@
       <mask>*.sh</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*c</mask>
+      <mask>*clj</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
