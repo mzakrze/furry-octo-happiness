@@ -3,22 +3,16 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*cl</mask>
-      <mask>*.jV</mask>
       <mask>*.*</mask>
-      <mask>*.go</mask>
       <mask>*.g</mask>
       <mask>*.s</mask>
       <mask>*.jav</mask>
       <mask>*.cpy</mask>
       <mask>*.cp</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>s</mask>
       <mask>sh</mask>
       <mask>*sh</mask>
@@ -29,7 +23,6 @@
       <mask>*.R</mask>
       <mask>*.cl</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.clj</mask>
@@ -38,6 +31,11 @@
       <mask>*.gradle</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.go</mask>
+      <mask>*.yt</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
