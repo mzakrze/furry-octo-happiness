@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
       <mask>s</mask>
       <mask>sh</mask>
@@ -23,7 +24,6 @@
       <mask>*.jsx</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.clj</mask>
       <mask>*.cl</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
@@ -34,6 +34,7 @@
       <mask>*Jo.java</mask>
       <mask>*Job.java</mask>
       <mask>*.java</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
