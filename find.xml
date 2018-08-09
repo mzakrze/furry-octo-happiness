@@ -4,16 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>s</mask>
-      <mask>sh</mask>
-      <mask>*sh</mask>
-      <mask>*.sh</mask>
-      <mask>*</mask>
-      <mask>*c</mask>
-      <mask>*clj</mask>
-      <mask>*.R</mask>
-      <mask>*.gra</mask>
-      <mask>*.gradle</mask>
       <mask>*.go</mask>
       <mask>*.yt</mask>
       <mask>*.y</mask>
@@ -27,13 +17,23 @@
       <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*J.java</mask>
       <mask>*Jo.java</mask>
       <mask>*Job.java</mask>
-      <mask>*.java</mask>
       <mask>*.clj</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*F.java</mask>
+      <mask>*Fo.java</mask>
+      <mask>*For.java</mask>
+      <mask>*Form.java</mask>
+      <mask>*FormB.java</mask>
+      <mask>*FormBui.java</mask>
+      <mask>*FormBuil.java</mask>
+      <mask>*FormBuild.java</mask>
+      <mask>*FormBuilde.java</mask>
+      <mask>*FormBuilder.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
