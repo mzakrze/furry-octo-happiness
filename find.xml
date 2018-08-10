@@ -20,7 +20,6 @@
       <mask>*J.java</mask>
       <mask>*Jo.java</mask>
       <mask>*Job.java</mask>
-      <mask>*.clj</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*F.java</mask>
@@ -34,6 +33,7 @@
       <mask>*FormBuilde.java</mask>
       <mask>*FormBuilder.java</mask>
       <mask>*.java</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
