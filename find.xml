@@ -4,14 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.yt</mask>
-      <mask>*.y</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.cl</mask>
-      <mask>*.c</mask>
       <mask>*J.java</mask>
       <mask>*Jo.java</mask>
       <mask>*Job.java</mask>
@@ -34,6 +26,14 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*F</mask>
+      <mask>*Fl</mask>
+      <mask>*Flo</mask>
+      <mask>*Flow</mask>
+      <mask>*Flow.</mask>
+      <mask>*Flow.ja</mask>
+      <mask>*Flow.jav</mask>
+      <mask>*Flow.java</mask>
     </recentFileMasks>
   </component>
 </application>
