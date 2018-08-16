@@ -4,19 +4,14 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.go</mask>
       <mask>*.yt</mask>
       <mask>*.y</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.jsx</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.cl</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*J.java</mask>
       <mask>*Jo.java</mask>
       <mask>*Job.java</mask>
@@ -34,6 +29,11 @@
       <mask>*FormBuilder.java</mask>
       <mask>*.java</mask>
       <mask>*.clj</mask>
+      <mask>*.jsx</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
