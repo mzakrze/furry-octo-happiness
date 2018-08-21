@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.clj" />
     <recentFileMasks>
       <mask>*J.java</mask>
       <mask>*Jo.java</mask>
@@ -19,7 +20,6 @@
       <mask>*FormBuild.java</mask>
       <mask>*FormBuilde.java</mask>
       <mask>*FormBuilder.java</mask>
-      <mask>*.clj</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -34,6 +34,7 @@
       <mask>*Flow.jav</mask>
       <mask>*Flow.java</mask>
       <mask>*.java</mask>
+      <mask>*.clj</mask>
     </recentFileMasks>
   </component>
 </application>
