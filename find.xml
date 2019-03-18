@@ -3,37 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*J.java</mask>
-      <mask>*Jo.java</mask>
-      <mask>*Job.java</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*F.java</mask>
-      <mask>*Fo.java</mask>
-      <mask>*For.java</mask>
-      <mask>*Form.java</mask>
-      <mask>*FormB.java</mask>
-      <mask>*FormBui.java</mask>
-      <mask>*FormBuil.java</mask>
-      <mask>*FormBuild.java</mask>
-      <mask>*FormBuilde.java</mask>
-      <mask>*FormBuilder.java</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*F</mask>
-      <mask>*Fl</mask>
-      <mask>*Flo</mask>
-      <mask>*Flow</mask>
-      <mask>*Flow.</mask>
-      <mask>*Flow.ja</mask>
-      <mask>*Flow.jav</mask>
-      <mask>*Flow.java</mask>
-      <mask>*.java</mask>
-      <mask>*.clj</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.jsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
