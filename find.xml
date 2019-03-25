@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.clj</mask>
+    <mask>*.java</mask>
   </component>
 </application>
