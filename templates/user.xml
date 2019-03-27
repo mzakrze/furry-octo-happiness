@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="adam" value="for (java.lang.String s : asdf) {&#10;            java.lang.System.out.println(&quot;s = &quot; + s);&#10;        }" description="Adamowy live template" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
