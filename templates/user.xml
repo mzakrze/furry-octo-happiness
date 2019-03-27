@@ -5,4 +5,17 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="cl" value="console.log('mouseDownEventHandler')" description="Console.log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sout" value="console.log(&quot;$VAR$: &quot;, $VAR$)" description="consol.logs variable" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
