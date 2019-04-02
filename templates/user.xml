@@ -18,4 +18,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="rafonix" value="java.lang.System.out.println(&quot;Bede sie wieszać na linach&quot;);" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
