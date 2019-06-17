@@ -13,8 +13,8 @@
     <mask>*.clj</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
