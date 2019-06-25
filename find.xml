@@ -10,12 +10,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Adder.java</mask>
-    <mask>*.clj</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.jsx</mask>
     <mask>build.gradle</mask>
+    <mask>*.clj</mask>
   </component>
 </application>
