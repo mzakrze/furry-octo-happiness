@@ -14,12 +14,12 @@
     <mask>*Adder.java</mask>
     <mask>*.jsp</mask>
     <mask>build.gradle</mask>
-    <mask>*.clj</mask>
     <mask>*.R</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.jsx</mask>
+    <mask>*.clj</mask>
   </component>
 </application>
