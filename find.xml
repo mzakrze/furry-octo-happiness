@@ -14,11 +14,11 @@
     <mask>build.gradle</mask>
     <mask>*.R</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.gradle</mask>
     <mask>*.clj</mask>
     <mask>*.jsx</mask>
     <mask>*.go</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
