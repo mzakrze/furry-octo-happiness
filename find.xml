@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -14,11 +15,11 @@
     <mask>build.gradle</mask>
     <mask>*.R</mask>
     <mask>*.sql</mask>
-    <mask>*.gradle</mask>
     <mask>*.clj</mask>
     <mask>*.jsx</mask>
     <mask>*.go</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
