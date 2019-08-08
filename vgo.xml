@@ -3,6 +3,7 @@
     <proxies>
       <list>
         <option value="direct" />
+        <option value="off" />
       </list>
     </proxies>
   </component>
