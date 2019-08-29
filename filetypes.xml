@@ -5,6 +5,7 @@
       <mapping pattern="Assignments" type="PLAIN_TEXT" />
       <mapping pattern="JsLoggerRequest" type="PLAIN_TEXT" />
       <mapping pattern="interexec" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping ext="j" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
