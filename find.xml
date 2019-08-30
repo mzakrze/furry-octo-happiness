@@ -15,10 +15,11 @@
     <mask>*.R</mask>
     <mask>*.sql</mask>
     <mask>*.clj</mask>
-    <mask>*.jsx</mask>
     <mask>*.go</mask>
     <mask>*.js</mask>
     <mask>*.gradle</mask>
+    <mask>*.jsx</mask>
+    <mask>*.mustache</mask>
     <mask>*.java</mask>
   </component>
 </application>
