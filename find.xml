@@ -7,7 +7,6 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Adder.java</mask>
     <mask>*.jsp</mask>
@@ -15,10 +14,12 @@
     <mask>*.R</mask>
     <mask>*.sql</mask>
     <mask>*.clj</mask>
-    <mask>*.jsx</mask>
-    <mask>*.go</mask>
     <mask>*.js</mask>
     <mask>*.gradle</mask>
+    <mask>*.css</mask>
+    <mask>*.go</mask>
+    <mask>*.mustache</mask>
+    <mask>*.jsx</mask>
     <mask>*.java</mask>
   </component>
 </application>
