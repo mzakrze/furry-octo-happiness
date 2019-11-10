@@ -2,5 +2,6 @@
   <template name="d" value="(defn $name$ [$args$] ($END$))" description="(defn ...)" toReformat="true" toShortenFQNames="false">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
