@@ -21,5 +21,6 @@
     <mask>*.jsx</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
