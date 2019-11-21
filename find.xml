@@ -21,9 +21,9 @@
     <mask>*.xml</mask>
     <mask>*.csv</mask>
     <mask>*.txt</mask>
-    <mask>*FormBuilder.java</mask>
-    <mask>*.clj</mask>
     <mask>*.java</mask>
     <mask>*RenderingProvider.java</mask>
+    <mask>*.clj</mask>
+    <mask>*FormBuilder.java</mask>
   </component>
 </application>
