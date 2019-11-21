@@ -23,6 +23,7 @@
     <mask>*.txt</mask>
     <mask>*RenderingProvider.java</mask>
     <mask>*.java</mask>
+    <mask>*FormBuilder.java</mask>
     <mask>*.clj</mask>
   </component>
 </application>
