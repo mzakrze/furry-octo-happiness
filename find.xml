@@ -25,5 +25,6 @@
     <mask>*FormBuilder.java</mask>
     <mask>*.properties</mask>
     <mask>*.clj</mask>
+    <mask>*pl.properties</mask>
   </component>
 </application>
