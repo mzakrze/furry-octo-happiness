@@ -22,8 +22,8 @@
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*RenderingProvider.java</mask>
-    <mask>*.clj</mask>
     <mask>*FormBuilder.java</mask>
     <mask>*.properties</mask>
+    <mask>*.clj</mask>
   </component>
 </application>
