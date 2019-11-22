@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -17,7 +18,6 @@
     <mask>*.mustache</mask>
     <mask>*.jsx</mask>
     <mask>*.xml</mask>
-    <mask>*.csv</mask>
     <mask>*.txt</mask>
     <mask>*.java</mask>
     <mask>*RenderingProvider.java</mask>
@@ -26,5 +26,6 @@
     <mask>*.clj</mask>
     <mask>*pl.properties</mask>
     <mask>*.sql</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
