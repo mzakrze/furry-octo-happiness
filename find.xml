@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.csv" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -25,7 +25,7 @@
     <mask>*.properties</mask>
     <mask>*.clj</mask>
     <mask>*pl.properties</mask>
-    <mask>*.sql</mask>
     <mask>*.csv</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
