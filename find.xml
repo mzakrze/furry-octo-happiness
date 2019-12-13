@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -22,5 +22,6 @@
     <mask>*.xml</mask>
     <mask>*.csv</mask>
     <mask>*.clj</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
