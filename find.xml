@@ -11,7 +11,6 @@
     <mask>build.gradle</mask>
     <mask>*.R</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.gradle</mask>
     <mask>*.css</mask>
     <mask>*.go</mask>
@@ -22,5 +21,6 @@
     <mask>*.csv</mask>
     <mask>*.clj</mask>
     <mask>*.properties</mask>
+    <mask>*.js</mask>
   </component>
 </application>
