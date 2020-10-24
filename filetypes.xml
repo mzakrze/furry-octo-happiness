@@ -1,13 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="test6py" type="PLAIN_TEXT" />
       <mapping pattern="Assignments" type="PLAIN_TEXT" />
       <mapping pattern="JsLoggerRequest" type="PLAIN_TEXT" />
       <mapping pattern="interexec" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="password_reminder" type="PLAIN_TEXT" />
+      <mapping ext="ndjson" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="r" type="PLAIN_TEXT" />
       <mapping ext="j" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
